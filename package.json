@@ -1,0 +1,16 @@
+{
+  "name": "gridSite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://viribus18.github.io/gridSite",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
